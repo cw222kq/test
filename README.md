@@ -1,2 +1,2 @@
 # test
-<img src=images/img.png>
+<img src="images/img.png">
